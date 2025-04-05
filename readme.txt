@@ -45,7 +45,7 @@ pip install streamlit rembg pillow
 ------------------------------------------------------
 - Do not reuse or publish this project without author permission.
 - Internet is not required for removing background (offline AI model).
-
+https://image-background-remover-app-wdxfkbbgrtdappvq8d4tpwq.streamlit.app/
 ------------------------------------------------------
 💬 Credits:
 ------------------------------------------------------
